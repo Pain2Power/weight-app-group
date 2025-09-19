@@ -1,2 +1,0 @@
-# weight-app
-Scale-app
